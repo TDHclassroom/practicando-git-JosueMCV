@@ -1,3 +1,3 @@
 # Autores
 
-- Josue Miguel Cordero Vidal (@JosueMCV)
+-Josue Miguel Cordero Vidal (@JosueMCV)
